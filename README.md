@@ -7,3 +7,4 @@ CSE-A
 4.Final bill.
 5.Loan Approval.
 6.Login Validity.
+7. marks with grades
