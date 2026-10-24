@@ -9,4 +9,4 @@ CSE-A
 6.Login Validity.
 7. marks with grades.
 8.BMI calculation.
-9.vowel or consonant Alphabet.
+9.Determination of vowel or consonant Alphabet.
